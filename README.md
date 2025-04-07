@@ -230,4 +230,4 @@ $ git mv [archivo-original] [archivo-renombrado]
 
 ---
 
-📌 Mis Redes: 🔵[Facebook](https://www.facebook.com/gdcode7) | 💼[LinkedIn](https://www.linkedin.com/in/gastondanielsen/) | 💻[Github](https://github.com/gdcodev)
+📌 Mis Redes: 🔵[Facebook](https://www.facebook.com/gdcode7) | 💼[LinkedIn](https://www.linkedin.com/in/gastondanielsen/) | 💻[Github](https://github.com/gastondanielsen)
