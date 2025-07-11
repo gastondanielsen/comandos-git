@@ -418,4 +418,3 @@ Si encuentras algún error o quieres agregar más comandos útiles, ¡las contri
 ---
 
 </div>
-```
